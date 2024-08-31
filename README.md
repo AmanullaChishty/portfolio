@@ -4,5 +4,5 @@
 
 ## Education
 - M.Tech., Data Science and Machine Learning | PES University, Bangalore (_Aug 2020_ - _Dec 2022_)								       
-- B.E., Physics	| Bangalore Institute of Technology (_Aug 2014_ - _Jun 2018_)
+- B.E., Mechanical Engineering	| Bangalore Institute of Technology (_Aug 2014_ - _Jun 2018_)
 
