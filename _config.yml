@@ -3,4 +3,6 @@ logo: /assets/img/Profile_pic.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
-social: https://www.linkedin.com/in/mohiuddin-amanulla-c-918717b2/
+social-network-links:
+  linked_in: https://www.linkedin.com/in/mohiuddin-amanulla-c-918717b2/
+  
