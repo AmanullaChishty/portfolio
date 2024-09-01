@@ -1,8 +1,8 @@
 title: Mohiuddin Amanulla Chishty
 logo: /assets/img/Profile_pic.png
 #description: text below image
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
-social-network-links:
-  linked_in: https://www.linkedin.com/in/mohiuddin-amanulla-c-918717b2/
+another_url: https://www.linkedin.com/in/mohiuddin-amanulla-c-918717b2/
+
   
